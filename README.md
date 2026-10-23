@@ -20,4 +20,4 @@ MahaNyay is an AI-powered legal aid platform for Pune citizens. Built on Google 
 - Deployment: Streamlit Community Cloud
 
 ### 👨‍💻 Developed By
-Ketan Ranimore | Pune | 2026
+Ranimore | Pune | 2026
